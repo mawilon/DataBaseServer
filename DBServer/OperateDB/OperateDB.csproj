@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBEntity\DBConnProperty.cs" />
+    <Compile Include="DBEntity\SqlDB.cs" />
     <Compile Include="IDataManage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
